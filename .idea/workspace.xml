@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0a17abc8-b830-4691-a484-57b5a256f075" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/captain_dashboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/otp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/facebook.py" beforeDir="false" afterPath="$PROJECT_DIR$/facebook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/winds_captain.py" beforeDir="false" afterPath="$PROJECT_DIR$/winds_captain.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,8 +18,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="222">
-              <caret line="33" column="96" lean-forward="true" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="96" />
+            <state relative-caret-position="442">
+              <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/winds_captain.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1836">
+              <caret line="112" column="92" selection-start-line="109" selection-start-column="10" selection-end-line="112" selection-end-column="92" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -28,10 +40,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/winds_captain.py">
+        <entry file="file://$PROJECT_DIR$/captain_dashboard.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="68" column="8" lean-forward="true" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+            <state relative-caret-position="50">
+              <caret line="28" column="52" lean-forward="true" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver/webdriver.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver/common/touch_action.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2295">
+              <caret line="137" column="39" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/otp.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-511">
+              <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="99" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -40,9 +78,27 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="8007">
+              <caret line="481" column="8" selection-start-line="481" selection-start-column="8" selection-end-line="481" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="10217">
+              <caret line="614" column="32" selection-start-line="614" selection-start-column="32" selection-end-line="614" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/296743356/time.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
+            <state relative-caret-position="2771">
               <caret line="163" column="4" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
             </state>
           </provider>
@@ -51,8 +107,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/facebook.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+            <state relative-caret-position="136">
+              <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -69,6 +125,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>driver</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -80,6 +141,10 @@
         <option value="$PROJECT_DIR$/facebook.py" />
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/winds_captain.py" />
+        <option value="$PROJECT_DIR$/venv/otp.py" />
+        <option value="$PROJECT_DIR$/otp.py" />
+        <option value="$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver/common/touch_action.py" />
+        <option value="$PROJECT_DIR$/captain_dashboard.py" />
       </list>
     </option>
   </component>
@@ -89,13 +154,14 @@
     <option name="width" value="1890" />
     <option name="height" value="960" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,9 +173,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\karun\PycharmProjects\Android autometion" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\karun\PycharmProjects\Android autometion" />
     </key>
@@ -126,8 +196,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests for winds_captain.WindsCaptainTests.test_text_friend">
-    <configuration name="Unittests for winds_captain.WhatappAndroidTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Unittests for captain_dashboard.Untitled.testUntitled">
+    <configuration name="Unittests for captain_dashboard.Untitled" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Android autometion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,11 +207,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;winds_captain.WhatappAndroidTests&quot;" />
+      <option name="_new_target" value="&quot;captain_dashboard.Untitled&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for winds_captain.WhatappAndroidTests.test_text_friend" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for captain_dashboard.Untitled.testUntitled" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Android autometion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,11 +221,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;winds_captain.WhatappAndroidTests.test_text_friend&quot;" />
+      <option name="_new_target" value="&quot;captain_dashboard.Untitled.testUntitled&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for winds_captain.WindsCaptainTests.test_text_friend" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for captain_dashboard.WindsCaptainTests" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Android autometion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -165,11 +235,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;winds_captain.WindsCaptainTests.test_text_friend&quot;" />
+      <option name="_new_target" value="&quot;captain_dashboard.WindsCaptainTests&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in main.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for captain_dashboard.WindsCaptainTests.test_text_friend" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Android autometion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -179,11 +249,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/main.py&quot;" />
-      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <option name="_new_target" value="&quot;captain_dashboard.WindsCaptainTests.test_text_friend&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in winds_captain.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in captain_dashboard.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Android autometion" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,17 +263,17 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/winds_captain.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/captain_dashboard.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests for winds_captain.WindsCaptainTests.test_text_friend" />
-        <item itemvalue="Python tests.Unittests in winds_captain.py" />
-        <item itemvalue="Python tests.Unittests for winds_captain.WhatappAndroidTests.test_text_friend" />
-        <item itemvalue="Python tests.Unittests for winds_captain.WhatappAndroidTests" />
-        <item itemvalue="Python tests.Unittests in main.py" />
+        <item itemvalue="Python tests.Unittests for captain_dashboard.Untitled.testUntitled" />
+        <item itemvalue="Python tests.Unittests for captain_dashboard.Untitled" />
+        <item itemvalue="Python tests.Unittests in captain_dashboard.py" />
+        <item itemvalue="Python tests.Unittests for captain_dashboard.WindsCaptainTests" />
+        <item itemvalue="Python tests.Unittests for captain_dashboard.WindsCaptainTests.test_text_friend" />
       </list>
     </recent_temporary>
   </component>
@@ -221,48 +291,48 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_winds_captain_WindsCaptainTests_test_text_friend - 2019.03.16 at 20h 24m 43s.xml">
-      <configuration name="Unittests for winds_captain.WindsCaptainTests.test_text_friend" configurationId="tests" />
+    <history-entry file="Unittests_for_captain_dashboard_Untitled_testUntitled - 2019.03.19 at 19h 51m 16s.xml">
+      <configuration name="Unittests for captain_dashboard.Untitled.testUntitled" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_winds_captain_WindsCaptainTests_test_text_friend - 2019.03.16 at 20h 27m 27s.xml">
-      <configuration name="Unittests for winds_captain.WindsCaptainTests.test_text_friend" configurationId="tests" />
+    <history-entry file="Unittests_for_captain_dashboard_Untitled_testUntitled - 2019.03.19 at 19h 52m 04s.xml">
+      <configuration name="Unittests for captain_dashboard.Untitled.testUntitled" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_winds_captain_WindsCaptainTests_test_text_friend - 2019.03.16 at 20h 30m 02s.xml">
-      <configuration name="Unittests for winds_captain.WindsCaptainTests.test_text_friend" configurationId="tests" />
+    <history-entry file="Unittests_for_captain_dashboard_Untitled_testUntitled - 2019.03.19 at 19h 54m 01s.xml">
+      <configuration name="Unittests for captain_dashboard.Untitled.testUntitled" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_winds_captain_WindsCaptainTests_test_text_friend - 2019.03.16 at 20h 32m 44s.xml">
-      <configuration name="Unittests for winds_captain.WindsCaptainTests.test_text_friend" configurationId="tests" />
+    <history-entry file="Unittests_for_captain_dashboard_Untitled_testUntitled - 2019.03.19 at 20h 00m 15s.xml">
+      <configuration name="Unittests for captain_dashboard.Untitled.testUntitled" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_winds_captain_WindsCaptainTests_test_text_friend - 2019.03.16 at 20h 41m 17s.xml">
-      <configuration name="Unittests for winds_captain.WindsCaptainTests.test_text_friend" configurationId="tests" />
+    <history-entry file="Unittests_in_captain_dashboard_py - 2019.03.19 at 20h 02m 52s.xml">
+      <configuration name="Unittests in captain_dashboard.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_winds_captain_WindsCaptainTests_test_text_friend - 2019.03.16 at 20h 42m 50s.xml">
-      <configuration name="Unittests for winds_captain.WindsCaptainTests.test_text_friend" configurationId="tests" />
+    <history-entry file="Unittests_for_captain_dashboard_Untitled_testUntitled - 2019.03.19 at 20h 04m 20s.xml">
+      <configuration name="Unittests for captain_dashboard.Untitled.testUntitled" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_winds_captain_WindsCaptainTests_test_text_friend - 2019.03.16 at 20h 44m 55s.xml">
-      <configuration name="Unittests for winds_captain.WindsCaptainTests.test_text_friend" configurationId="tests" />
+    <history-entry file="Unittests_for_captain_dashboard_Untitled_testUntitled - 2019.03.19 at 20h 10m 50s.xml">
+      <configuration name="Unittests for captain_dashboard.Untitled.testUntitled" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_winds_captain_WindsCaptainTests_test_text_friend - 2019.03.16 at 20h 47m 16s.xml">
-      <configuration name="Unittests for winds_captain.WindsCaptainTests.test_text_friend" configurationId="tests" />
+    <history-entry file="Unittests_for_captain_dashboard_Untitled_testUntitled - 2019.03.19 at 20h 12m 35s.xml">
+      <configuration name="Unittests for captain_dashboard.Untitled.testUntitled" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_winds_captain_WindsCaptainTests_test_text_friend - 2019.03.16 at 20h 49m 56s.xml">
-      <configuration name="Unittests for winds_captain.WindsCaptainTests.test_text_friend" configurationId="tests" />
+    <history-entry file="Unittests_for_captain_dashboard_Untitled_testUntitled - 2019.03.19 at 20h 17m 45s.xml">
+      <configuration name="Unittests for captain_dashboard.Untitled.testUntitled" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_for_winds_captain_WindsCaptainTests_test_text_friend - 2019.03.16 at 20h 50m 47s.xml">
-      <configuration name="Unittests for winds_captain.WindsCaptainTests.test_text_friend" configurationId="tests" />
+    <history-entry file="Unittests_for_captain_dashboard_Untitled_testUntitled - 2019.03.19 at 20h 22m 58s.xml">
+      <configuration name="Unittests for captain_dashboard.Untitled.testUntitled" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22496025" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1645469" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3285968" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.18827708" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.1740675" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30728242" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.348135" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -275,42 +345,126 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/winds_captain.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>permission_allow_button</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>permission_allow_button._is_remote</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>permission_allow_button.text</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>permission_allow_button.text.str</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>self.driver.find_element_by_id('com.android.packageinstaller:id/permission_allow_button')</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/test_android_contacts.py" />
     <entry file="file://$PROJECT_DIR$/android_simple.py" />
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="38" selection-start-line="30" selection-start-column="38" selection-end-line="30" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/winds_captain.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="112" column="92" selection-start-line="109" selection-start-column="10" selection-end-line="112" selection-end-column="92" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver/common/touch_action.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2295">
+          <caret line="137" column="39" selection-start-line="137" selection-start-column="39" selection-end-line="137" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8007">
+          <caret line="481" column="8" selection-start-line="481" selection-start-column="8" selection-end-line="481" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10217">
+          <caret line="614" column="32" selection-start-line="614" selection-start-column="32" selection-end-line="614" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/296743356/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2771">
+          <caret line="163" column="4" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/facebook.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="46" lean-forward="true" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        <state relative-caret-position="136">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
+    <entry file="file://$PROJECT_DIR$/otp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="33" column="96" lean-forward="true" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="96" />
+        <state relative-caret-position="-511">
+          <caret line="31" column="23" lean-forward="true" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="99" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/296743356/time.py">
+    <entry file="file://$PROJECT_DIR$/captain_dashboard.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="163" column="4" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/winds_captain.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="68" column="8" lean-forward="true" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+        <state relative-caret-position="50">
+          <caret line="28" column="52" lean-forward="true" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
           <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>

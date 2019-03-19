@@ -66,7 +66,7 @@ class WindsCaptainTests(unittest.TestCase):
         otp_alert_submit_button = self.driver.find_element_by_id('com.winds.karyakarta:id/tv_ok')
         otp_alert_submit_button.click()
 
-        
+
         # search_button = self.driver.find_element_by_id('com.winds.karyakarta:id/search_view')
         # search_button.click()
         #
